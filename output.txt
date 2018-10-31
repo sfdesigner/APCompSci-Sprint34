@@ -1,0 +1,9 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=51967:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Tester\out\production\Tester Main
+Enter an integer value: 12.5
+There was an error. Here is more info...
+java.util.InputMismatchException
+Enter a short value (must be between -32,768 and 32,767): 123456789
+The value is the wrong type. Maybe it is too big or small?
+Thank you for your answer!
+
+Process finished with exit code 0
